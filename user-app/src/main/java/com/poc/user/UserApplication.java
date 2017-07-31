@@ -1,4 +1,4 @@
-package com.poc.exercise;
+package com.poc.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

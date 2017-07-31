@@ -2,3 +2,9 @@
 /.idea/
 /target/
 /user_service.iml
+user-app/target/
+user-app/user-app.iml
+user-common/target/
+user-common/user-common.iml
+user-rest/target/
+user-rest/user-rest.iml

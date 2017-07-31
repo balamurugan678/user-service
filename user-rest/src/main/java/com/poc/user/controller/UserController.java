@@ -1,6 +1,6 @@
-package com.poc.exercise.controller;
+package com.poc.user.controller;
 
-import com.poc.exercise.models.User;
+import com.poc.user.models.User;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.ParameterizedTypeReference;
